@@ -1,0 +1,2 @@
+-keep class com.example.rat.** { *; }
+-dontwarn org.json.**

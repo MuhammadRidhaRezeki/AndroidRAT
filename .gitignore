@@ -1,0 +1,15 @@
+.gradle/
+.idea/
+local.properties
+__pycache__/
+*.py[cod]
+*.apk
+*.jar
+*.dex
+*.class
+*.idsig
+build/
+app/build/
+build_manual/
+loot/
+*.log
